@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/gWSqr58/zohar-Caricature.png" width="200" height="200">
+<img src="https://i.ibb.co/gWSqr58/zohar-Caricature.png" width="400" height="400">
 
 <h2> Hey there! I'm Zohar</h2>
 
