@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/gWSqr58/zohar-Caricature.png" width="400" height="400">
+<img src="https://i.ibb.co/gWSqr58/zohar-Caricature.png" width="350" height="350">
 </p>
 
 <h2> Hey there! I'm Zohar</h2>
