@@ -20,8 +20,9 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -31,7 +32,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Maya](https://img.shields.io/badge/-Autodesk Maya-333333?style=flat&logo=autodesk)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
@@ -48,9 +49,8 @@
 
 <p align="center">
 <a href="http://zoharwilliams.herokuapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-zoharwilliams.herokuapp.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/zoharwilliams/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/zoharkiks"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:zoharkiks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/zoharwilliams/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zohar Williams-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/zoharkiks"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Zohar Williams-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:zoharkiks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zoharkiks@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
