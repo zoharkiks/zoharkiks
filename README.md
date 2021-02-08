@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D35AQErEVHcGQ1ItQ/profile-framedphoto-shrink_200_200/0/1611763997741?e=1612875600&v=beta&t=N0urspU0ibacu6kivWc9wM81ZRuSfbA_OInoaorOuCc">
+<img src="https://i.ibb.co/gWSqr58/zohar-Caricature.png">
 
 <h2> Hey there! I'm Zohar</h2>
 
