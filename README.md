@@ -49,7 +49,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://zoharwilliams.herokuapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-zoharwilliams.herokuapp.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://zoharwilliams.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://zoharwilliams.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/zoharwilliams/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zohar Williams-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/zoharkiks"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Zohar Williams-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:zoharkiks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zoharkiks@gmail.com-blue?style=flat-square&logo=gmail"></a>
